@@ -51,7 +51,7 @@ h1 {
 }
 
 #entrada-de-texto::placeholder {
-    color: #b7b7b7;
+    color: hsl(0, 0%, 100%)0%, 100%);
     font-size: 2rem;
     font-weight: 400;
     line-height: normal;
@@ -66,7 +66,7 @@ h1 {
     border-radius: 0.5rem;
     border: none;
     background: var(--cor-destaque);
-    color: #d1b9b9;
+    color: #050000;
     font-size: 1.8rem;
     font-weight: 500;
     line-height: normal;
